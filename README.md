@@ -18,3 +18,4 @@ A simple, semantically correct, and clean single-page CV project created using o
 
 - `index.html` — Main HTML file containing the CV content
 - `README.md` — Project documentation and setup guide
+https://roadmap.sh/projects/single-page-cv
